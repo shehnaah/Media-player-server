@@ -1,0 +1,67 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "caption": "rdx",
+      "url": "https://images.indianexpress.com/2023/08/rdx.jpg",
+      "embbedlink": "https://www.youtube.com/embed/nYEoxne_20Y"
+    },
+    {
+      "id": "3",
+      "caption": "king of kotha",
+      "url": "https://assets-in.bmscdn.com/discovery-catalog/events/et00351659-puvrqkbxrk-landscape.jpg",
+      "embbedlink": "https://www.youtube.com/embed/VzT2xurZrbI"
+    },
+    {
+      "id": "4",
+      "caption": "jawan",
+      "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/media_bank/202309/shah-rukh-khan--jawan--srk-films-295651-1x1.jpg?VersionId=flG135APjYu35mqHqhjNACK3.P335ZY8",
+      "embbedlink": "https://www.youtube.com/embed/VAdGW7QDJiU"
+    },
+    {
+      "id": "5",
+      "caption": "kannur squad",
+      "url": "https://m.media-amazon.com/images/M/MV5BNTk0NjVkNjAtNjc0Yy00MmQ1LTlmMjktYWE5NzUzODNlNmZmXkEyXkFqcGdeQXVyMTE5NjE5Mjc2._V1_.jpg",
+      "embbedlink": "https://www.youtube.com/embed/vEJNZCnoZp2"
+    }
+  ],
+  "category": [
+    {
+      "category": "Malayalam",
+      "allVideos": [
+        {
+          "id": "3",
+          "caption": "king of kotha",
+          "url": "https://assets-in.bmscdn.com/discovery-catalog/events/et00351659-puvrqkbxrk-landscape.jpg",
+          "embbedlink": "https://www.youtube.com/embed/VzT2xurZrbI"
+        },
+        {
+          "id": "4",
+          "caption": "jawan",
+          "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/media_bank/202309/shah-rukh-khan--jawan--srk-films-295651-1x1.jpg?VersionId=flG135APjYu35mqHqhjNACK3.P335ZY8",
+          "embbedlink": "https://www.youtube.com/embed/VAdGW7QDJiU"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "category": "Hindi",
+      "allVideos": [],
+      "id": 2
+    }
+  ],
+  "history": [
+    {
+      "caption": "jawan",
+      "embbedlink": "https://www.youtube.com/embed/VAdGW7QDJiU",
+      "timeStamp": "10/10/2023, 10:19:41 AM",
+      "id": 1
+    },
+    {
+      "caption": "king of kotha",
+      "embbedlink": "https://www.youtube.com/embed/VzT2xurZrbI",
+      "timeStamp": "10/12/2023, 10:59:42 AM",
+      "id": 5
+    }
+  ]
+}
